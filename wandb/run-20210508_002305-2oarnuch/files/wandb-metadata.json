@@ -1,0 +1,18 @@
+{
+    "os": "Linux-4.9.201-tegra-aarch64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.9",
+    "heartbeatAt": "2021-05-08T05:23:19.668159",
+    "startedAt": "2021-05-08T05:23:05.314467",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": "10.2.89",
+    "args": [
+        "-f",
+        "/home/sebas/.local/share/jupyter/runtime/kernel-3655e2a1-4e7b-4afa-abc2-39effdc1eb86.json"
+    ],
+    "state": "running",
+    "program": "analytics-II-final-workshop",
+    "host": "sebas-desktop",
+    "username": "sebas",
+    "executable": "/usr/bin/python3"
+}

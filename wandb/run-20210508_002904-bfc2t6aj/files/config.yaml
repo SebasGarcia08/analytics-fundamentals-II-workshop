@@ -1,0 +1,52 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.10.30
+    framework: tensorflow
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    python_version: 3.6.9
+    t:
+      1:
+      - 3
+      - 5
+      4: 3.6.9
+      5: 0.10.30
+      8:
+      - 1
+      - 5
+architecture:
+  desc: null
+  value: Conv1D
+batch_size:
+  desc: null
+  value: 64
+dataset:
+  desc: null
+  value: Ozone Level Detection
+dataset-link:
+  desc: null
+  value: https://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection
+epochs:
+  desc: null
+  value: 1000
+learning_rate:
+  desc: null
+  value: 0.001
+losses:
+  desc: null
+  value:
+    class: binary_crossentropy
+    reg: mse
+metrics:
+  desc: null
+  value:
+    class: []
+    reg:
+    - __main__.r_2
+    - tensorflow.python.keras.losses.mean_absolute_percentage_error
+window_size:
+  desc: null
+  value: 30
