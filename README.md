@@ -10,7 +10,7 @@ Furhtermore, you would receive a great bonus if your model is also able to predi
 
 Here is some information about the features:
 
-# Dataset Information:
+# Data Set Information:
 
 For a list of attributes, please refer to those two .names files. They use the following naming convention:
 
